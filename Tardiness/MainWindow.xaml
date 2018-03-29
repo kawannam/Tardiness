@@ -1,0 +1,28 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:local="clr-namespace:Tardiness" x:Class="Tardiness.MainWindow"
+        Title="MainWindow" Height="450" Width="650"
+        Background="White">
+    <Grid>
+        <Rectangle Fill="#FF090636" HorizontalAlignment="Left" Height="419" VerticalAlignment="Top" Width="200"/>
+        <Rectangle Fill="#FFC5ECEE" HorizontalAlignment="Left" Height="100" VerticalAlignment="Top" Width="442" Margin="200,119,0,0"/>
+        <Rectangle Fill="#FFC5ECEE" Height="100" VerticalAlignment="Top" Margin="200,319,0,0"/>
+        <local:Data x:Name="Data1" HorizontalAlignment="Left" Margin="322,119,0,0" VerticalAlignment="Top" Height="100"/>
+        <local:Data x:Name="Data2" HorizontalAlignment="Left" Margin="426,119,0,0" VerticalAlignment="Top" Height="100"/>
+        <local:Data x:Name="Data3" HorizontalAlignment="Left" Margin="532,119,0,0" VerticalAlignment="Top" Height="100"/>
+        <local:Data x:Name="Data4" HorizontalAlignment="Left" Margin="322,219,0,0" VerticalAlignment="Top" Height="100"/>
+        <local:Data x:Name="Data5" HorizontalAlignment="Left" Margin="426,219,0,0" VerticalAlignment="Top" Height="100"/>
+        <local:Data x:Name="Data6" HorizontalAlignment="Left" Margin="532,219,0,0" VerticalAlignment="Top" Height="100"/>
+        <local:Data x:Name="Data7" HorizontalAlignment="Left" Margin="322,319,0,0" VerticalAlignment="Top" Height="100"/>
+        <local:Data x:Name="Data8" HorizontalAlignment="Left" Margin="426,319,0,0" VerticalAlignment="Top" Height="100"/>
+        <local:Data x:Name="Data9" HorizontalAlignment="Left" Margin="532,319,0,0" VerticalAlignment="Top" Height="100"/>
+        <local:Data x:Name="Truth" HorizontalAlignment="Left" Margin="426,10,0,0" VerticalAlignment="Top" Height="100"/>
+        <Label Content="Best" HorizontalAlignment="Left" Margin="200,136,0,0" VerticalAlignment="Top" Height="66" Width="94" FontSize="36" Foreground="#FF2822AA"/>
+        <Label Content="Mid" HorizontalAlignment="Left" Margin="200,231,0,0" VerticalAlignment="Top" Height="79" Width="94" FontSize="36" Foreground="#FF2822AA"/>
+        <Label Content="Worst" HorizontalAlignment="Left" Margin="200,337,0,0" VerticalAlignment="Top" Height="66" Width="112" FontSize="36" Foreground="#FF2822AA"/>
+        <Label Content="Truth" HorizontalAlignment="Left" Margin="200,21,0,0" VerticalAlignment="Top" Height="79" Width="112" FontSize="36" Foreground="#FF2822AA"/>
+        <Label Content="Tardiness&#xD;&#xA;" HorizontalAlignment="Left" Height="79" Margin="10,21,0,0" VerticalAlignment="Top" Width="185" Foreground="#FFFBFAFA" FontSize="36"/>
+
+    </Grid>
+</Window>

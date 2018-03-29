@@ -1,0 +1,16 @@
+C:\Users\Kendra\documents\visual studio 2013\Projects\Tardiness\Tardiness\bin\Debug\Tardiness.exe.config
+C:\Users\Kendra\documents\visual studio 2013\Projects\Tardiness\Tardiness\bin\Debug\Tardiness.exe
+C:\Users\Kendra\documents\visual studio 2013\Projects\Tardiness\Tardiness\bin\Debug\Tardiness.pdb
+C:\Users\Kendra\documents\visual studio 2013\Projects\Tardiness\Tardiness\obj\Debug\Data.baml
+C:\Users\Kendra\documents\visual studio 2013\Projects\Tardiness\Tardiness\obj\Debug\Data.g.cs
+C:\Users\Kendra\documents\visual studio 2013\Projects\Tardiness\Tardiness\obj\Debug\MainWindow.g.cs
+C:\Users\Kendra\documents\visual studio 2013\Projects\Tardiness\Tardiness\obj\Debug\App.g.cs
+C:\Users\Kendra\documents\visual studio 2013\Projects\Tardiness\Tardiness\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Kendra\documents\visual studio 2013\Projects\Tardiness\Tardiness\obj\Debug\Tardiness_MarkupCompile.cache
+C:\Users\Kendra\documents\visual studio 2013\Projects\Tardiness\Tardiness\obj\Debug\Tardiness_MarkupCompile.lref
+C:\Users\Kendra\documents\visual studio 2013\Projects\Tardiness\Tardiness\obj\Debug\MainWindow.baml
+C:\Users\Kendra\documents\visual studio 2013\Projects\Tardiness\Tardiness\obj\Debug\Tardiness.g.resources
+C:\Users\Kendra\documents\visual studio 2013\Projects\Tardiness\Tardiness\obj\Debug\Tardiness.Properties.Resources.resources
+C:\Users\Kendra\documents\visual studio 2013\Projects\Tardiness\Tardiness\obj\Debug\Tardiness.csproj.GenerateResource.Cache
+C:\Users\Kendra\documents\visual studio 2013\Projects\Tardiness\Tardiness\obj\Debug\Tardiness.exe
+C:\Users\Kendra\documents\visual studio 2013\Projects\Tardiness\Tardiness\obj\Debug\Tardiness.pdb
